@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main()
+{
+  /*program start form here
+  we are about to print something*/
+  printf("Hello world");//this line is for printing
+  return 0;
+}
